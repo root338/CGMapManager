@@ -1,0 +1,10 @@
+/* 
+  CGMapLocationText.strings
+  CGTestMapManager
+
+  Created by DY on 2017/4/6.
+  Copyright © 2017年 -. All rights reserved.
+*/
+
+"CGMap_K_DiableLocationService" = "关闭定位服务";
+
